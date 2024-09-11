@@ -1,0 +1,554 @@
+.geral{
+    background-color: rgb(219, 219, 219);
+}
+
+.foto1{
+    position: relative;
+    width: 400px;
+    top: 70px;
+}
+
+.foto2{
+    position: relative;
+    width: 400px;
+    top: 70px;
+    left: 90px;
+}
+
+.foto3{
+    position: relative;
+    width: 400px;
+    top: 70px;
+    left: 180px;
+}
+
+.linho {
+    position: relative;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+    width: 93px;
+    bottom: 70px;
+    left: 400px;
+}
+
+.linho2 {
+    position: relative;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+    width: 93px;
+    bottom: 74px;
+    left: 894px;
+}
+
+.quadrado{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    width: 803px;
+    height: 440px;
+    top: 50px;
+    left: 54px;
+}
+
+.quadradinho{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    width: 420px;
+    height: 390px;
+    bottom: 340px;
+    left: 904px;
+}
+
+.preto{
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    border-radius: 3px;
+    width: 803px;
+    height: 35px;
+    bottom: 790px;
+    left: 54px;
+}
+
+.bmw{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    bottom: 780px;
+    left: 100px;
+}
+
+.x6{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    bottom: 833px;
+    left: 170px;
+    color: red;
+}
+
+.desc{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    bottom: 853px;
+    left: 100px;
+    color: rgb(165, 165, 165);
+}
+
+.cidade{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 833px;
+    left: 100px;
+    color: rgb(165, 165, 165);
+}
+
+.Ro{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 843px;
+    left: 100px;
+}
+
+.ano{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 830px;
+    left: 100px;
+    color: rgb(165, 165, 165);
+}
+
+.anoo{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 840px;
+    left: 100px;
+}
+
+.comb{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 825px;
+    left: 100px;
+    color: rgb(165, 165, 165);
+}
+
+.gasosa{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 835px;
+    left: 100px;
+}
+
+.tds{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 825px;
+    left: 100px;
+    color: rgb(165, 165, 165);
+}
+
+.sim{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 830px;
+    left: 100px; 
+}
+
+.km{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 1089px;
+    left: 380px;
+    color: rgb(165, 165, 165); 
+}
+
+.kmm{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 1119px;
+    left: 410px;
+}
+
+.placa{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 1085px;
+    left: 380px;
+    color: rgb(165, 165, 165); 
+}
+
+.sete{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 1115px;
+    left: 420px;
+}
+.cambio{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 1226px;
+    left: 580px;
+    color: rgb(165, 165, 165);
+}
+
+.automatico{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 1236px;
+    left: 580px;
+}
+
+.cor{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 1226px;
+    left: 580px;
+    color: rgb(165, 165, 165);
+}
+
+.pretoo{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 1236px;
+    left: 580px;
+}
+
+.carroceria{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 1347px;
+    left: 700px;
+    color: rgb(165, 165, 165);
+}
+
+.cupe{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 1357px;
+    left: 700px;
+}
+
+.troca{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 1347px;
+    left: 700px;
+    color: rgb(165, 165, 165);
+}
+
+.sim{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    bottom: 1357px;
+    left: 700px;
+}
+
+.carrinho{
+    position: relative;
+    width: 35px;
+    bottom: 1290px;
+    left: 350px;
+}
+
+.dm{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    bottom: 1347px;
+    left: 400px;
+}
+
+.numero{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    bottom: 1367px;
+    left: 400px;
+}
+
+.linho3{
+    position: relative;
+    border: 1px solid rgb(165, 165, 165);
+    width: 0px;
+    height: 100px;
+    bottom: 1450px;
+    left: 550px;
+}
+
+.conquista{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    bottom: 1564px;
+    left: 562px;
+}
+
+.mini-carro{
+    position: relative;
+    width: 20px;
+    bottom: 1550px;
+    left: 730px;
+}
+
+.medalha{
+    position: relative;
+    width: 20px;
+    bottom: 1550px;
+    left: 580px;
+}
+
+.desde{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    bottom: 1560px;
+    left: 580px;
+    color: rgb(165, 165, 165);
+}
+
+.anunciou{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    bottom: 1600px;
+    left: 705px;
+    color: rgb(165, 165, 165);
+}
+
+.coração{
+    position: relative;
+    width: 20px;
+    bottom: 1950px;
+    left: 810px;
+}
+
+.vistoriado{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    bottom: 2033px;
+    left: 70px;
+    color: white;
+}
+
+.precinho{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    bottom: 2000px;
+    left: 930px;
+}
+
+.nome{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 8px;
+    color: rgb(172, 172, 172);
+    bottom: -7px;
+}
+
+.nomee{
+    position: relative;
+    font-size: 15px;
+    border: 2px solid rgb(172, 172, 172);
+    background-color: white;
+    width: 350px;
+    height: 35px;
+    left: 930px;
+    bottom: 2010px;
+    border-radius: 5px;
+}
+
+.email{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 8px;
+    color: rgb(172, 172, 172);
+    bottom: -7px;
+}
+
+.emaill{
+    position: relative;
+    font-size: 15px;
+    border: 2px solid rgb(172, 172, 172);
+    background-color: white;
+    width: 350px;
+    height: 35px;
+    left: 930px;
+    bottom: 2010px;
+    border-radius: 5px;
+}
+
+.telefone{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 8px;
+    color: rgb(172, 172, 172);
+    bottom: -7px;
+}
+
+.telefonee{
+    position: relative;
+    font-size: 15px;
+    border: 2px solid rgb(172, 172, 172);
+    background-color: white;
+    width: 350px;
+    height: 35px;
+    left: 930px;
+    bottom: 2010px;
+    border-radius: 5px;
+}
+
+.minii{
+    position: relative;
+    border: 2px solid rgb(172, 172, 172);
+    background-color: white;
+    width: 350px;
+    height: 55px;
+    left: 930px;
+    bottom: 2010px;
+    border-radius: 5px;
+}
+
+.ola{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    bottom: 2068px;
+    left: 940px;
+}
+
+.enviar{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 50px;
+    color: rgb(255, 255, 255);
+    bottom: -7px;
+}
+
+.enviarr{
+    position: relative;
+    font-size: 18px;
+    background-color: rgb(255, 0, 0);
+    width: 230px;
+    height: 35px;
+    left: 990px;
+    bottom: 2030px;
+    border-radius: 5px;
+}
+
+.é{
+    position: relative;
+    border: 2px solid rgb(172, 172, 172);
+    width: 20px;
+    height: 20px;
+    left: 930px;
+    bottom: 2115px;
+    border-radius: 5px;
+}
+
+.quero{
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 11px;
+    bottom: 2146px;
+    left: 960px;
+    color: rgb(165, 165, 165);
+}
+
+.olp {
+    position: relative;
+    width: 50px;
+    left: 25px;
+    bottom: 2905px;
+}
+
+.comp {
+    position: relative;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 2965px;
+    left: 400px;
+}
+
+.vender{
+    position: relative;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 2999px;
+    left: 600px;
+}
+
+.serv{
+    position: relative;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 3033px;
+    left: 800px;
+}
+
+.ajuda{
+    position: relative;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 3067px;
+    left: 1000px;
+}
+
+.perfil{
+    position: relative;
+    width: 30px;
+    bottom: 3105px;
+    left: 1170px;
+}
+
+.mensagem{
+    position: relative;
+    width: 30px;
+    bottom: 3105px;
+    left: 1230px;
+}
+
+.engrenagem{
+    position: relative;
+    width: 27px;
+    bottom: 3105px;
+    left: 1240px;
+}
+
+.entrar{
+    position: relative;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    bottom: 3148px;
+    left: 1205px;
+}
+
+.verif{
+    position: relative;
+    width: 20px;
+    bottom: 2487px;
+    left: 932px;
+}
